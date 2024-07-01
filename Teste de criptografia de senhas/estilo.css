@@ -1,0 +1,87 @@
+
+
+
+body{
+
+    /* background-image: url(link da imagem): código para colocar uma imagem de fundo*/
+   /*Cor de fundo da página*/
+   background-color: #EEEBD3;
+}
+
+
+
+section{
+
+
+   text-align: center;
+
+   color: black;
+
+   background-color: white/*cor antiga: #5F7367*/;
+
+   margin-top: 200px;
+
+   padding-top: 50px;
+
+   padding-bottom: 50px;
+
+   border-radius: 40px;
+
+   margin-left: 600px;
+
+   margin-right: 600px;
+
+}
+
+.imagem-perfil{
+
+   height: 30px;
+
+   margin-bottom: 20px;
+
+   margin-left: 50px;
+}
+
+
+.input-email{
+
+   margin-bottom: 30px;
+   /*border: none: código para tirar a borda dos inputs*/
+
+   border-radius: 30px;
+
+}
+
+.input-senha{
+
+   border-radius: 30px;
+}
+
+.label-email{
+
+   padding-right: 5px;
+}
+
+.label-senha{
+
+   padding-right: 5px;
+}
+
+.botao-entrar{
+
+   margin-top: 20px;
+
+   margin-left: 60px;
+
+   border-radius: 30px;
+
+   padding-left: 30px;
+
+   padding-right: 30px;
+
+   padding-top: 10px;
+
+   padding-bottom: 10px;
+}
+
+
